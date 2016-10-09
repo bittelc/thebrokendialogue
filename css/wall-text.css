@@ -1,0 +1,11 @@
+.wall-text-container {
+  position: relative;
+  height: 100%;
+}
+
+.wall-text-container h1 {
+  margin: 0;
+}
+
+.wall-text {
+  padding-top: 90px;
