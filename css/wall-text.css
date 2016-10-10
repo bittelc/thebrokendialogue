@@ -5,9 +5,10 @@
   width: 60%;
 }
 
-.wall-text-container h1 {
-  margin: 0;
+.wall-text-container h2 {
+  margin-top: 0;
 }
 
 .wall-text {
   padding-top: 90px;
+}
