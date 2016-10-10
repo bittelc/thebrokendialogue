@@ -1,6 +1,6 @@
 ## Objective
 
-The purpose of this repository, and associated [website](www.thebrokendialogue.com) are to help shed light on systemic racism that is common in America. Specifically, the aim is directed at "white" people who are so often the primary cause of racism.
+The purpose of this repository, and associated [website](http://thebrokendialogue.com) are to help shed light on systemic racism that is common in America. Specifically, the aim is directed at "white" people who are so often the primary cause of racism.
 
 
 ## Known TODOs
